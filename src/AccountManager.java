@@ -1,4 +1,16 @@
-//did it work?
+/**
+* AccountManager is a class that manages accounts for the tutoring system
+* it allows for someone to sign up for an account, sign in to an account,
+* and provides the UI for the sign up and sign in screen as well as a default
+* screen.
+* 
+* Assignment number: Recitation Project 
+* 
+* Completion time: 5 hours
+*
+* @author Ryan Christensen
+* @version 1.0
+**/
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

@@ -1,3 +1,17 @@
+/**
+* User class contains the information about a user
+* A new account can be created and will stored in a csv file
+* that can be accessed through the AccountManager. The User class
+* checks to see if user is saved, stores unsaved users, keeps track
+* of the users score, and stores the users score if the score > high score.
+* 
+* Assignment number: Recitation Project 
+* 
+* Completion time: 3 hours
+*
+* @author Ryan Christensen
+* @version 1.0
+**/
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
